@@ -33,7 +33,7 @@ into the resonance region.
 
 ## Results
 
-[XX.X]% accuracy on a held-out test set (25%, stratified, 10 classes).
+[96.3]% accuracy on a held-out test set (25%, stratified, 10 classes).
 
 ![Confusion matrix](reports/figures/confusion_matrix.png)
 
