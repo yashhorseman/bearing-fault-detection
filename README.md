@@ -55,6 +55,3 @@ pip install -r requirements.txt
 The data isn't in the repo (files are big). Grab it from the
 [CWRU Bearing Data Center](https://engineering.case.edu/bearingdatacenter)
 and drop the .mat files into `data/raw/`.
-
-Notebooks are numbered in order (00 → 02). The reusable stuff (loading,
-segmentation, feature extraction) lives in `src/`.
